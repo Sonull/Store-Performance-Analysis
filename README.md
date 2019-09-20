@@ -1,7 +1,7 @@
 ## Analysis of performance of a store using Tableau
 
-## California made the highest sales - $ 1.1Mn which was 13% of the overall sales
-## Delaware made the lowest sales with only $3,543 which was 0.04% of the overall sales
+California made the highest sales - $ 1.1Mn which was 13% of the overall sales
+Delaware made the lowest sales with only $3,543 which was 0.04% of the overall sales
 ![Worksheet%201](https://github.com/Sonull/Store-Performance-Analysis/blob/master/Worksheet%201.png)
 
 ## Distribution of sales across product categories by region
