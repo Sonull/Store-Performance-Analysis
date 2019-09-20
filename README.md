@@ -20,10 +20,10 @@
 
 ## Overall product category level KPIs
 ![worksheet%204](https://github.com/Sonull/Store-Performance-Analysis/blob/master/worksheet%204.png)
-*	The average sales in the Product Category ‘Furniture’ is the highest : $1,664.40
-*	On an average, the sales in ‘Furniture’ and ‘Technology’ were 4 times the sales in ‘Office Supplies’  respectively
-* The Minimum sales in each of the categories was less than or equal to ~ $5
-* The standard deviation of sales of ‘Furniture’ is 224% of the average sales. In other words, the coefficient of variation is = 224% :
+*  The average sales in the Product Category ‘Furniture’ is the highest : $1,664.40
+*  On an average, the sales in ‘Furniture’ and ‘Technology’ were 4 times the sales in ‘Office Supplies’  respectively
+*  The Minimum sales in each of the categories was less than or equal to ~ $5
+*  The standard deviation of sales of ‘Furniture’ is 224% of the average sales. In other words, the coefficient of variation is = 224% :
     * CV = ($ 3680.29/$ 1644.40) * 100 = 224%
 *	The coefficient of variation for sales of ‘Office Supplies’ is 336% while for Technology, it is 209% calculated as :
     *	CV for ‘Office Supplies’ = ($ 1465.10/$ 435.89) * 100 = 336%
