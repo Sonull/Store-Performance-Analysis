@@ -1,4 +1,4 @@
-## Goal of the Project:
+## Goal of the Project
 Analyze the performance of the store using Tableau
 
 ## HeatMap on Sales
