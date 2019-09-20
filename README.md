@@ -1,4 +1,4 @@
-##Analyis of performance of a store using Tableau
+## Analysis of performance of a store using Tableau
 
 ## HeatMap of distribution of sales across US
 ![Worksheet%201](https://github.com/Sonull/Store-Performance-Analysis/blob/master/Worksheet%201.png)
