@@ -1,5 +1,4 @@
-## Goal of the Project
-Analyze the performance of the store using Tableau
+# ANALYSIS OF THE PERFORMANCE OF A STORE USING TABLEAU
 
 ## HeatMap on Sales
 ![Worksheet%201](https://github.com/Sonull/Store-Performance-Analysis/blob/master/Worksheet%201.png)
