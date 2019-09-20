@@ -11,7 +11,7 @@
 ![Worksheet%203](https://github.com/Sonull/Store-Performance-Analysis/blob/master/Worksheet%203.png)
 
 ## Overall product category level KPIs
-![Worksheet%204](https://github.com/Sonull/Store-Performance-Analysis/blob/master/Worksheet%204.png)
+![worksheet%204](https://github.com/Sonull/Store-Performance-Analysis/blob/master/worksheet%204.png)
 
 ## Dashboard on Store Performance
 ![Dashboard%201](https://github.com/Sonull/Store-Performance-Analysis/blob/master/Dashboard%201.png)
