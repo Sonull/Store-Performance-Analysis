@@ -50,8 +50,8 @@
 *	That is, there is huge variability in the profit within each of these three product categories.
 *	The Maximum profit in ‘Furniture’ was $7,635.84 which can be considered as an outlier as it is more than the 3 sigma upper limit:
     *	 Average + 3* std dev = $91.75 + 3* $1,044.35 = $3,224.8
-*	 Similarly, the maximum profit in the other two categories can also be considered as the corresponding outliers since they lie outside their corresponding 3 sigma limits:
-    *	 Upper limit for ‘Office Supplies’ = $87.24 + 3* $750.33 = $2,338.23 <  the maximum profit = $16,332.41
+*	Similarly, the maximum profit in the other two categories can also be considered as the corresponding outliers since they lie outside their corresponding 3 sigma limits:
+    *  Upper limit for ‘Office Supplies’ = $87.24 + 3* $750.33 = $2,338.23 <  the maximum profit = $16,332.41
     *  Upper limit for ‘Technology’ = $295.46 + 3* $1363.78 = $4,386.7 < the maximum profit = $9,195.97
 *	The minimum profit in ‘Furniture’ was - $13,706.46 which can be considered as an outlier as it is less than the  3 sigma lower limit:
     *	 Average - 3* std dev = $91.75 - 3* $1,044.35 = -$3,041.3
